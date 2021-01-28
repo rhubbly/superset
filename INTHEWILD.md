@@ -73,6 +73,7 @@ Join our growing community!
 - [Dremio](https://dremio.com) [@narendrans]
 - [ELMO Cloud HR & Payroll](https://elmosoftware.com.au/)
 - [Endress+Hauser](http://www.endress.com/) [@rumbin]
+- [Explore Digits Inc.] (http://exploredigits.com/) [@rhubbly]
 - [FBK - ICT center](http://ict.fbk.eu)
 - [GfK Data Lab](http://datalab.gfk.com) [@mherr]
 - [GrowthSimple](https://growthsimple.ai/)
